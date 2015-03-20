@@ -1,0 +1,23 @@
+{
+  "name": "yify-pop",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+    "adm-zip": "0.4.4",
+    "bcrypt": "0.7.x",
+    "child": "*",
+    "geddy": "^13.0.7",
+    "getport": "0.1.x",
+    "jake": "0.5.x",
+    "moment": "*",
+    "opensrt_js": "0.0.16",
+    "passport": "0.1.x",
+    "request": "2.34.x",
+    "rimraf": "2.2.8",
+    "underscore": "1.7.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.10.16"
+  }
+}
